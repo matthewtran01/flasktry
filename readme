@@ -1,0 +1,2 @@
+1: python -m venv flak-env  create virtual env if not mad yet
+2: .\flak-env\Scripts\activate   to start environment
